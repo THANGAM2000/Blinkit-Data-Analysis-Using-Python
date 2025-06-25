@@ -1,0 +1,1 @@
+This project involves exploratory data analysis (EDA) on Blinkit (formerly Grofers) data using Python. The goal is to uncover insights from the dataset using powerful data manipulation and visualization libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
